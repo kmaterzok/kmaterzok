@@ -8,7 +8,7 @@ I am Karol and reside in Poland. At present, I work as a C# developer and love t
 
 I am also very passionate about security and privacy within software, especially within software parts I am engaged. I do programming with presence of defensive programming principles, so code is less prone to erroneous data input and behaviour and making mistakes during implementation.
 
-#### 🧰 Tech stack & tools:
+#### 🧰 Tech stack & tools
 
 | **Category** | **Technologies** |
 | - | - |
