@@ -1,7 +1,5 @@
- 
-### Howdy there 😊
-
-![](https://hit.yhype.me/github/profile?user_id=56814812)
+ architecture. 
+### Howdy there 😊 ![](https://hit.yhype.me/github/profile?user_id=56814812)
 
 ####  👤 About me
 I am Karol and reside in Poland. At present, I work as a C# developer and love to code features and to project software and its architecture.
