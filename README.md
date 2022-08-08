@@ -1,13 +1,22 @@
- 
-### Howdy there 😊 ![](https://hit.yhype.me/github/profile?user_id=56814812)
 
-####  👤 About me
+<h1>Howdy there 😊<img src="https://hit.yhype.me/github/profile?user_id=56814812" alt="" /></h1>
+
+
+<details>
+<summary><strong>👤 About me</strong></summary>
+<p>
 I am Karol and live in Poland. At present, I work as a C# developer and love to code features and to project software and its architecture.
-
+</p>
+<p>
 I am also very passionate about security and privacy within software, especially within software parts I am engaged. I do programming with presence of defensive programming principles, so code is less prone to erroneous data input and behaviour and making mistakes during implementation.
+</p>
+</details>
 
-#### 🧰 Tech stack & tools
 
+<details>
+<summary><strong>🧰 Tech stack & tools</strong></summary>
+<div>
+ 
 | **Category** | **Technologies** |
 | - | - |
 **Frontend** | [![Blazor](https://img.shields.io/static/v1?label=&message=Blazor&color=512BD4&logo=blazor&logoColor=ffffff)](https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor) [![WPF](https://img.shields.io/static/v1?label=&message=WPF&color=C21325&logo=dotnet&logoColor=ffffff)](https://docs.microsoft.com/en-us/visualstudio/designers/getting-started-with-wpf?view=vs-2022) [![HTML5](https://img.shields.io/static/v1?label=&message=HTML5&color=E34F26&logo=html5&logoColor=ffffff)](https://developer.mozilla.org/en-US/docs/Glossary/HTML5) [![CSS3](https://img.shields.io/static/v1?label=&message=CSS3&color=1572B6&logo=css3&logoColor=ffffff)](https://developer.mozilla.org/en-US/docs/Web/CSS) [![Bootstrap](https://img.shields.io/static/v1?label=&message=Bootstrap&color=7952B3&logo=bootstrap&logoColor=ffffff)](https://getbootstrap.com/)
@@ -18,4 +27,9 @@ I am also very passionate about security and privacy within software, especially
 **Other tools** | [![GIMP](https://img.shields.io/static/v1?label=&message=GIMP&color=5C5543&logo=gimp&logoColor=FFFFFF)](https://www.gimp.org/) [![Git](https://img.shields.io/static/v1?label=&message=Git&color=F05032&logo=git&logoColor=FFFFFF)](https://git-scm.com/)
 **Used in the past** | [![C++](https://img.shields.io/static/v1?label=&message=C%2B%2B&color=00599C&logo=cplusplus&logoColor=FFFFFF)](https://isocpp.org/) [![PHP](https://img.shields.io/static/v1?label=&message=PHP&color=777BB4&logo=php&logoColor=FFFFFF)](https://www.php.net/) [![Python](https://img.shields.io/static/v1?label=&message=Python&color=3776AB&logo=python&logoColor=FFFFFF)](https://www.python.org/) [![Java](https://img.shields.io/static/v1?label=&message=Java&color=eb3a28&logo=java&logoColor=FFFFFF)](https://www.java.com/)
 
+ </div>
+</details>
+
+<p>
 Go ahead and look around my profile. Perhaps there is something worth of interest.
+</p>
